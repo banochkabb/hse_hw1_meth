@@ -7,6 +7,10 @@
 | 8 cell             | 1090              | 464               |
 | ICM                | 1456              | 630               |
 
+![](https://github.com/banochkabb/hse_hw1_meth/blob/main/img/Screenshot%202022-02-18%20at%2020.34.06.png)
+![](https://github.com/banochkabb/hse_hw1_meth/blob/main/img/Screenshot%202022-02-18%20at%2020.33.57.png)
+![](https://github.com/banochkabb/hse_hw1_meth/blob/main/img/Screenshot%202022-02-18%20at%2020.33.46.png)
+![](https://github.com/banochkabb/hse_hw1_meth/blob/main/img/Screenshot%202022-02-18%20at%2020.33.38.png)
 
 ### B Дедупликация 
 Сколько процентов прочтений дуплицированно в каждом из образцов? 
@@ -21,11 +25,11 @@
 
 ### D Отчет и описание M-bias plot  
 8 CELL: примерно 40% СPG метилирования
-![]
+![](https://github.com/banochkabb/hse_hw1_meth/blob/main/img/Screenshot%202022-02-18%20at%2019.33.55.png)
 EPIBLAST: примерно 80% СPG метилирования
-![]
+![](https://github.com/banochkabb/hse_hw1_meth/blob/main/img/Screenshot%202022-02-18%20at%2019.34.20.png)
 ICM: примерно 20% СPG метилирования
-![]
+![](https://github.com/banochkabb/hse_hw1_meth/blob/main/img/Screenshot%202022-02-18%20at%2019.34.09.png)
   
 ### E Гистограмма распределения метилирования цитозинов по хромосоме
 ```
@@ -35,10 +39,10 @@ plt.title("icm")
 plt.hist(df[3].values, bins=50, color='aqua')
 plt.show()
 ```
-![]
+![](https://github.com/banochkabb/hse_hw1_meth/blob/main/img/Screenshot%202022-02-18%20at%2019.52.04.png)
 примерно половина метилирования приходится на 0%
-![]
+![](https://github.com/banochkabb/hse_hw1_meth/blob/main/img/Screenshot%202022-02-18%20at%2019.52.09.png)
 примерно большая часть метилирования приходится на 100% (лучше всего)
-![]
+![](https://github.com/banochkabb/hse_hw1_meth/blob/main/img/Screenshot%202022-02-18%20at%2019.52.13.png)
  примерно половина метилирования приходится на 0%
 ### А Визуализируйте уровень метилирования и покрытия для каждого образца 
