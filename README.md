@@ -5,7 +5,7 @@ https://colab.research.google.com/drive/1p6rcIcnGKTRrzXKew7vHRKpLE8CNlCml?usp=sh
 ![](https://github.com/banochkabb/hse_hw1_meth/blob/main/img/Screenshot%202022-02-18%20at%2020.33.57.png)
 ![](https://github.com/banochkabb/hse_hw1_meth/blob/main/img/Screenshot%202022-02-18%20at%2020.33.46.png)
 ![](https://github.com/banochkabb/hse_hw1_meth/blob/main/img/Screenshot%202022-02-18%20at%2020.33.38.png)
-Вывод:
+Вывод: Сравнивая данные для SRR3414630_1 полученные в прошлом дз и текущие данные важно отметить различний GC состав - 2 пика ( цитозина больще в РНК, тимина больше в ДНК, содержание остальных сравнимо и их содержание нормальное - около четверти)
 ### A Число ридов, закартированных на участки 11347700-11367700; 40185800-40195800  
 |                    | 11347700-11367700 | 40185800-40195800 |
 |--------------------|-------------------|-------------------|
