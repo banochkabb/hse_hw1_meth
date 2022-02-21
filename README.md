@@ -1,16 +1,16 @@
 # hse_hw1_meth
 
+![](https://github.com/banochkabb/hse_hw1_meth/blob/main/img/Screenshot%202022-02-18%20at%2020.34.06.png)
+![](https://github.com/banochkabb/hse_hw1_meth/blob/main/img/Screenshot%202022-02-18%20at%2020.33.57.png)
+![](https://github.com/banochkabb/hse_hw1_meth/blob/main/img/Screenshot%202022-02-18%20at%2020.33.46.png)
+![](https://github.com/banochkabb/hse_hw1_meth/blob/main/img/Screenshot%202022-02-18%20at%2020.33.38.png)
+Вывод:
 ### A Число ридов, закартированных на участки 11347700-11367700; 40185800-40195800  
 |                    | 11347700-11367700 | 40185800-40195800 |
 |--------------------|-------------------|-------------------|
 | Epiblast           | 2328              | 1062              |
 | 8 cell             | 1090              | 464               |
 | ICM                | 1456              | 630               |
-
-![](https://github.com/banochkabb/hse_hw1_meth/blob/main/img/Screenshot%202022-02-18%20at%2020.34.06.png)
-![](https://github.com/banochkabb/hse_hw1_meth/blob/main/img/Screenshot%202022-02-18%20at%2020.33.57.png)
-![](https://github.com/banochkabb/hse_hw1_meth/blob/main/img/Screenshot%202022-02-18%20at%2020.33.46.png)
-![](https://github.com/banochkabb/hse_hw1_meth/blob/main/img/Screenshot%202022-02-18%20at%2020.33.38.png)
 
 ### B Дедупликация 
 Сколько процентов прочтений дуплицированно в каждом из образцов? 
