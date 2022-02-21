@@ -1,4 +1,5 @@
 # hse_hw1_meth
+https://colab.research.google.com/drive/1p6rcIcnGKTRrzXKew7vHRKpLE8CNlCml?usp=sharing
 
 ![](https://github.com/banochkabb/hse_hw1_meth/blob/main/img/Screenshot%202022-02-18%20at%2020.34.06.png)
 ![](https://github.com/banochkabb/hse_hw1_meth/blob/main/img/Screenshot%202022-02-18%20at%2020.33.57.png)
