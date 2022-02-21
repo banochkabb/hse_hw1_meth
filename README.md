@@ -46,3 +46,5 @@ plt.show()
 ![](https://github.com/banochkabb/hse_hw1_meth/blob/main/img/Screenshot%202022-02-18%20at%2019.52.13.png)
  примерно половина метилирования приходится на 0%
 ### А Визуализируйте уровень метилирования и покрытия для каждого образца 
+![](https://github.com/banochkabb/hse_hw1_meth/blob/main/Screenshot%202022-02-21%20at%2017.43.05.png)
+![](https://github.com/banochkabb/hse_hw1_meth/blob/main/Screenshot%202022-02-21%20at%2017.43.05.png)
