@@ -24,12 +24,12 @@
 Дупликации связаны с метилированием 
 
 ### D Отчет и описание M-bias plot  
-8 CELL: примерно 40% СPG метилирования
+ICM: примерно 20% СPG метилирования
 ![](https://github.com/banochkabb/hse_hw1_meth/blob/main/img/Screenshot%202022-02-18%20at%2019.33.55.png)
 EPIBLAST: примерно 80% СPG метилирования
 ![](https://github.com/banochkabb/hse_hw1_meth/blob/main/img/Screenshot%202022-02-18%20at%2019.34.09.png)
-ICM: примерно 20% СPG метилирования
-![](https://github.com/banochkabb/hse_hw1_meth/blob/main/img/Screenshot%202022-02-18%20at%2019.34.20.png)
+8 CELL: примерно 40% СPG метилирования![]
+(https://github.com/banochkabb/hse_hw1_meth/blob/main/img/Screenshot%202022-02-18%20at%2019.34.20.png)
   
 ### E Гистограмма распределения метилирования цитозинов по хромосоме
 ```
